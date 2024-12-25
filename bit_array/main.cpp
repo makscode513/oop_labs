@@ -1,4 +1,4 @@
-#include "Head.h"
+#include "BitArray.h"
 
 
 int main() {
